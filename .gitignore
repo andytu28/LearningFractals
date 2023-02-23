@@ -1,0 +1,12 @@
+ifs-1mil.pkl
+ifs-100k-10trans.pkl
+*.pyc
+*.nbc
+*.nbi
+
+mnist_images/
+IMAGEMATCH_MNIST/
+fmnist_images/
+IMAGEMATCH_FMNIST/
+kmnist_images/
+IMAGEMATCH_KMNIST/
